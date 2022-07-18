@@ -7,10 +7,10 @@
     "email": "olive@haven.lol",
     "phone": "+19494156469",
     "url": "https://haven.lol",
-    "summary": "Wife 🤵🏻‍♀️, Dog Mom 🐶, Queer Geeky Hacker 🤓, Senior SRE and Software Engineer 👩🏻‍💻. Always looking out for my team and to nurture healthy work lives. A job's only as good as the people you work with 😊\n\nCurrently looking for full-time remote work as an SRE at companies with at least 100 employees, a prexisting SRE team, and great engineering culture!",
+    "summary": "Wife 🤵🏻‍♀️, Dog Mom 🐶, Queer Geeky Hacker 🤓, Senior SRE and Software Engineer 👩🏻‍💻. I'm always looking out for my team and to nurture healthy work lives. A job's only as good as the people you work with 😊\n\nI'm currently looking for full-time remote work as an SRE at companies with at least 100 employees, a preexisting SRE team, and great engineering culture!",
     "location": {
       "city": "Portland",
-      "region": "OR",
+      "region": "OR", 
       "countryCode": "US",
       "address": "United States"
     },
@@ -24,11 +24,6 @@
         "network": "LinkedIn",
         "username": "0xhaven",
         "url": "https://www.linkedin.com/in/0xhaven/"
-      },
-      {
-        "network": "Twitter",
-        "username": "0xhaven",
-        "url": "https://twitter.com/0xhaven"
       }
     ]
   },
@@ -39,17 +34,17 @@
       "startDate": "2021-03-31",
       "endDate": "2022-07-31",
       "highlights": [],
-      "summary": "Initially hired as a Product/Platform engineer for this email security startup, I saw the normal startup gaps in engineering culture and production reliability and worked with the CTO and engineering managers to help plug these by creating documentation and engineering standards. This discussions led into the creation of a dedicated Systems Reliability team where as founding member I helped hire and train Junior, Senior, and Principal engineers. My main goal was to get each member of this small team up to speed, able to progress as individual engineers, and to support the broader engineering org.\nOn this small but agile SRE team, I was able to prioritize the following engineering goals:\n1. Automation of manual tasks in the production (also development and staging) environment, primarily leveraging Stackstorm workflow/runbook automation services.\n2. Improved development workflow and maturing engineering culture with Bitbucket Pipelines and Jenkins CI/CD and improvements to in-house Kubernetes/Helm development environment.\n3. Monitoring application and infrastructure services with Prometheus and Grafana.\n4. Oncall rotation with actionable metrics & dashboards, detailed runbooks, and incident response procedures to improve detection of and response time to incidents in production systems.\n5. Infrastructure as Code defining environments, clusters, services with reproducible Terraform, Helm, and ArgoCD code managed in understandable and testable Git repositories.\n6. Catch-all startup fire management and aid to developers, QA engineers, and Customer Support staff who need help understanding, interacting with, fixing issues, as well and learning and developing solutions to prevent future problems.",
+      "summary": "While initially onboarding as a Product / Platform engineer for this email security startup, I ran into several (rather normal) startup issues including immature engineering culture, burgeoning technical debt, code rot, and poor production reliability. I was able to help plug these holes by creating documentation and implementing engineering and development best practices. This work on improving developer experience led to discussing production reliability shortcomings with the CTO and engineering managers.\nFollowing this proven positive impact, I was able to get C-level buy-in to create a dedicated Systems Reliability Team. As a founding member of this team, I helped hire and train Junior, Senior, and Principal engineers. My main goal was to get each member up to speed, able to progress as individual engineers, and to support the broader engineering org goals and milestones. With this fledgling SRE team, I worked to prioritize the following engineering goals:\n<ol><li>Automation of manual tasks in the production environment (as well as development and staging), primarily leveraging Stackstorm workflow/runbook automation services</li><li>Improved development workflow and maturing engineering culture with Bitbucket Pipelines and Jenkins CI/CD and improvements to in-house development environment Kubernetes / Helm management</li><li>Monitoring of application and infrastructure services with Prometheus and Grafana</li><li>Oncall rotation with actionable metrics & dashboards, detailed runbooks, and incident response procedures to improve detection of and response time to incidents in production systems</li><li>Infrastructure as Code (IaC) defining environments, clusters, services with reproducible Terraform, Helm, and ArgoCD code managed in understandable and testable Git repositories</li><li>Catch-all DevOps support for developers, QA engineers, and Customer Support staff who need help understanding, interacting with, fixing issues, as well as identifying common problems and developing solutions to prevent future recurrence</li></ol>",
       "url": "https://armorblox.com",
       "location": "Sunnyvale, CA"
     },
     {
       "name": "New Context",
-      "position": "Senior Engineer",
+      "position": "Senior Security Consultant",
       "startDate": "2020-03-31",
       "endDate": "2021-03-31",
       "highlights": [],
-      "summary": "Remote security consultant contracting with large enterprise clients to do security analysis of infrastructure.\nI created Go microservices leveraging GCP, AWS, Kubernetes, and Postgres APIs to do internal service discovery and track sensitive data flow throughout organizational infrastructure. The results of this analysis were stored extensible neo4j graph database and surfaced as security and business metric queries and dashboards.",
+      "summary": "I was hired as a remote security consultant contracting with large enterprise clients to do security analysis of infrastructure.\nWhile there, I created Go microservices leveraging GCP, AWS, Kubernetes, and Postgres APIs to do internal service discovery and track sensitive data flow throughout organizational infrastructure. The results of this analysis were stored in an extensible neo4j graph database and surfaced as security and business metric queries and dashboards.",
       "url": "https://newcontext.com",
       "location": "San Francisco, CA"
     },
@@ -59,7 +54,7 @@
       "startDate": "2017-02-28",
       "endDate": "2018-02-28",
       "highlights": [],
-      "summary": "Building distributed microservices in Go for internal Identity APIs. This involved interacting with various Product, Platform, and SRE teams across Atlassian to support their specific use cases of a overarching Atlassian product and user Identity\nMy main task was building a distributed, high reliability, low latency authorization store from scratch meant to bean the backend authorization provider for all modern Go microservices (with legacy support for custom authorization architectures already in place in Jira and Confluence). Much of this work was on low-level perfomance tuning of queries to shared Cassandra and Redis databases.\nI gained a lot of monitoring and performance tuning skills by working with Atlassian's amazing embedded SRE team to:\n1. Implement custom metric gathering with Prometheus.\n2. Create performance & reliability monitoring dashboards in Honeycomb.\n3. Set up service specific alerting, oncall rotation, and runbooks.\n4. Create automated CI/CD testing and full microservice load testing across staging environments.\n4. Full ownership of the services release management, including GitOps for environment management and hotfixes",
+      "summary": "I worked as a Senior Software Engineer building distributed microservices in Go for internal Identity APIs. This involved interacting with various Product, Platform, and SRE teams across Atlassian to support their specific use cases of a overarching Atlassian product and user Identity.\nMy main task was building a distributed, high reliability, low latency authorization store from scratch as the backend authorization provider for all modern Go microservices (with legacy support for custom authorization architectures already in place in Jira and Confluence). Much of this work was on low-level performance tuning of queries to shared Cassandra and Redis databases.\nI gained a lot of monitoring and performance tuning skills by working with Atlassian's amazing embedded SRE team to:<ol><li>Implement custom metric gathering with Prometheus</li><li>Create performance & reliability monitoring dashboards in Honeycomb</li><li>Act as first line Oncall and service specific alerting and operations runbooks</li><li>Create automated CI/CD testing and full microservice load testing across staging environments</li><li>Have full ownership of the services release management, including GitOps for environment management and hotfixes</li></ol>",
       "url": "https://atlassian.com",
       "location": "Mountain View, CA"
     },
@@ -69,7 +64,7 @@
       "startDate": "2016-06-30",
       "endDate": "2016-12-31",
       "highlights": [],
-      "summary": "Created a Public Key Infrastructure for internal services including HSM-backed CA with CFSSL and puppet managed end service public key credential generation.",
+      "summary": "I created a Public Key Infrastructure for internal services including HSM-backed CA with CFSSL and Puppet managed internal service public key credential generation.",
       "url": "https://salesforce.com",
       "location": "San Francisco, CA"
     },
@@ -79,7 +74,7 @@
       "startDate": "2014-09-30",
       "endDate": "2016-03-31",
       "highlights": [],
-      "summary": "Improved global web cryptographic standards and implementations. Helped provide fast and secure TLS for free to millions of sites by implementing low level extensions to standard nginx to allow dynamic TLS cert and key lookup from a global distributed cache.\nImproved many open source PKI and generic infosec infrastructure software in OpenSSL, Go, and CFSSL toolkit.\nCreated \"Keyless SSL\" software in Go allowing use of proxied TLS keys from otherwise untrusted edge servers so that TLS wouldn't need to be shipped to untrusted datacenters or hostile jurisdictions.\nLearned a great deal about the modern TLS ecosystem on the internet, including spending many hours on code archaeology of various server and client codebases or testing closed source implementations to diagnose and fix/workaround protocol bugs as they came up in the wild.",
+      "summary": "I improved global web cryptographic standards and implementations. I helped provide fast and secure TLS for free to millions of sites by implementing low level extensions to standard nginx to allow dynamic TLS cert and key lookup from a global distributed cache.\nI also improved many open source PKI and generic infosec infrastructure software in OpenSSL, Go, and CFSSL toolkit.\nI implemented \"Keyless SSL\" software in Go allowing use of proxied TLS keys from otherwise untrusted edge servers so that TLS wouldn't need to be shipped to untrusted datacenters or hostile jurisdictions.\nDuring my time here, I learned a great deal about the modern TLS ecosystem on the internet, including spending many hours on code archaeology of various server and client codebases or testing closed source implementations to diagnose and fix / workaround protocol bugs as they came up in the wild.",
       "url": "https://cloudflare.com",
       "location": "San Francisco, CA"
     },
@@ -89,7 +84,7 @@
       "startDate": "2014-06-30",
       "endDate": "2014-07-31",
       "highlights": [],
-      "summary": "Worked on packaging ooni-probe (part of the Open Observatory of Network Interference) for easy access and use in locations where ISPs or Governments are blocking Tor. Learned a great deal about the obfuscation (and detection) techniques used in the wild to hide (and identify) encrypted communications.",
+      "summary": "I worked on packaging ooni-probe (part of the Open Observatory of Network Interference) for easy access and use in locations where ISPs or Governments are blocking Tor. I learned a great deal about the obfuscation (and detection) techniques used in the wild to hide (and identify) encrypted communications.",
       "url": "https://ooni.org",
       "location": "Stanford, CA"
     },
@@ -99,17 +94,17 @@
       "startDate": "2013-10-31",
       "endDate": "2013-12-31",
       "highlights": [],
-      "summary": "Built robust service for distributed hotspot detection in Amazon Web Services S3 cloud storage system",
+      "summary": "As an engineer on the AWS S3 team, I built a service to detect hotspots in the S3 cloud storage system trie data structure for targeted repair to keep S3 lookups performant.",
       "url": "https://aws.amazon.com",
       "location": "Seattle, WA"
     },
     {
-      "name": "Mozilla Corporation",
-      "position": "Software Engineering Intern",
+      "name": "Mozilla, OWASP",
+      "position": "Security Tools Intern",
       "startDate": "2013-07-31",
       "endDate": "2013-09-30",
       "highlights": [],
-      "summary": "Added SPDY support to OWASP ZAP webapp penetration testing tool by rewriting network stack using the Netty framework.",
+      "summary": "While working as a software engineering intern with the Mozilla Security Tools team, I worked on the OWASP ZAP webapp penetration testing tool and added SPDY (later HTTP 2) support by rewriting the internal network stack using the Netty framework.",
       "url": "https://www.zaproxy.org",
       "location": "Mountain View, CA"
     },
@@ -119,7 +114,7 @@
       "startDate": "2013-03-31",
       "endDate": "2013-06-30",
       "highlights": [],
-      "summary": "Added Secure Boot to virtual UEFI firmware across all VMware products by implementing public key based authentication in virtual storage device",
+      "summary": "I added Secure Boot support to virtual UEFI firmware across all VMware products by implementing OpenSSL-based public key authentication in virtual storage devices.",
       "url": "https://vmware.com/",
       "location": "Palo Alto, CA"
     },
@@ -129,7 +124,7 @@
       "startDate": "2013-01-31",
       "endDate": "2013-04-30",
       "highlights": [],
-      "summary": "Worked on mobile security, including prevention, detection, and removal of Android malware",
+      "summary": "I worked on the Security Infrastructure team to detect Android malware on end-user devices and track spread through the social Graph API.",
       "url": "https://engineering.fb.com",
       "location": "Menlo Park, CA"
     },
@@ -139,7 +134,7 @@
       "startDate": "2012-06-30",
       "endDate": "2012-09-30",
       "highlights": [],
-      "summary": "Designed and implemented, using C++ and NTL, a highly optimized Lattice-based Fully Homomorphic cryptosystem based on a polynomial ring translation of [Brakerski12] resulting in a paper and poster.",
+      "summary": "Using C++ and NTL, I designed and implemented a highly optimized Lattice-based Fully Homomorphic (FHE) cryptosystem based on a custom polynomial ring translation of [Brakerski12] resulting in a paper and poster.",
       "url": "https://undergradresearch.stanford.edu",
       "location": "Stanford, CA"
     }
