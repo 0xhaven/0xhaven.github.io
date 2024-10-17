@@ -34,6 +34,7 @@
       "location": "Remote",
       "position": "Senior Site Reliability & DevOps Engineer",
       "startDate": "2022-09-01",
+      "endDate": "2024-09-31",
       "summary": "Experienced technical staff member supporting a high growth ~350-member engineering org and helping to double an Engineering Services (SRE/DevOps/Platform) organization from ~10 to ~20 engineers supporting SaaS and B2B products. I started working as an SRE in 2022, then moved to support the expanding DevOps team throughout 2023",
       "highlights": [
         "Datacenter migration to AWS cloud infrastructure, resulting in significant cost savings and improved resource provisioning efficiency through infrastructure as code and AWS services.",
