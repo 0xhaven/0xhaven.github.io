@@ -38,6 +38,22 @@
   },
   "work": [
     {
+      "name": "Invoca",
+      "url": "https://invoca.com",
+      "location": "Remote",
+      "position": "SRE Tech Lead (Senior Site Reliability Engineer II)",
+      "startDate": "2025-01-01",
+      "summary": "Tech Lead for the Core SRE team, focused on Infrastructure & Security. Responsible for Cloud Infrastructure, security architecture, system maintenance, monitoring and alerting, and incident management.",
+      "highlights": [
+        "Team technical leadership responsibilities of mentoring, hiring, and onboarding engineers. Team and organizational level roadmap and project planning. Coordination and collaboration with other teams on joint infrastructure, platform, and security concerns.",
+        "Ownership of organizational incident response and root cause analysis process and technologies. Migration from Opsgenie to PagerDuty. Created unified incident response workflow and IaC-templated on-call configuration used across 20 teams and 130 responders.",
+        "Day-to-day on-call responsibilities monitoring, maintaining, and automating production infrastructure and providing expertise",
+        "Ownership of multi-cloud (AWS and GCP) Cloud Infrastructure, cross-region Kubernetes clusters (both self-hosted and managed EKS/GKE), telephony infrastructure, Chef-managed Debian instances, MySQL databases, Kafka, Elasticsearch, Redis, Auth0",
+        "Ownership of development and release platform infrastructure GitHub Enterprise, BuildKite, Terraform (Atlantis), ArgoCD, Backstage",
+        "Close collaboration with Infosec on infrastructure security, including network scanning and automation to detect and remediate compliance issues and provide audit evidence (SOC 2, PCI DSS, ISO 27001, GDPR)"
+      ]
+    },
+    {
       "name": "LegalZoom",
       "url": "https://www.legalzoom.com",
       "location": "Remote",
@@ -52,7 +68,7 @@
         "Enhanced system reliability through effective incident management and troubleshooting, with a focus on root cause analysis and continuous improvement, reducing downtime and service disruptions.",
         "Strengthened cross-team collaboration by providing hands-on support to developer teams, streamlining release processes, and supporting service launches. This resulted in increased release velocity, minimized incidents, and improved team efficiency.",
         "Promoted a collaborative and empathetic team environment, fostering knowledge sharing, improving team morale, and mentoring junior engineers.",
-        "Platform operations and maintenance for CI/CD, Monitoring, Deployment systems (including migrating legacy systems). Including GitHub Enterprise, GitHub Actions, ArgoCD, Jenkins, Kubernetes, Datadog, Azure Active Directory, Azure DevOps, Rundeck, IIS, and Rundeck."
+        "Platform operations and maintenance for CI/CD, Monitoring, Deployment systems (including migrating legacy systems). Including Kubernetes, GitHub Enterprise, GitHub Actions, ArgoCD, Jenkins, Datadog, Entra ID (Azure AD), and Rundeck."
       ]
     },
     {
